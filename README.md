@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to my page :handshake:
+
+
+I am a programmer and a financial literacy teacher.
+
+Currently, my main programming languages are C# and Python.
+
+I have extensive experience in writing desktop applications for working with databases.
+
+## I teach you how to make money in the financial markets :moneybag:
+I will teach you how to earn 30% per annum on the Moscow Exchange without dips or stress, even in a falling market! :fire:
 
 <!--
 **mpcoder-git/mpcoder-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
