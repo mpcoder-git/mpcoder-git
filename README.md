@@ -3,9 +3,9 @@
 
 I am a programmer and a financial literacy teacher.
 
-Currently, my main programming languages are C# and Python.
+Currently, my main programming languages are C#, Python, Golang.
 
-I have extensive experience in writing desktop applications for working with databases.
+I have extensive experience in writing desktop applications for working with databases, REST API microservises, scripts, parsers and etc.
 
 ## I teach you how to make money in the financial markets :moneybag:
 I will teach you how to earn 30% per annum on the Moscow Exchange without dips or stress, even in a falling market! :fire:
